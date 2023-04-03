@@ -1,6 +1,6 @@
 # contracts
 terminalprotocol contracts for public<br>
-info<br>
+
 welcome user<br>
 🤖<br>
 adele your personal assistant is here to inform you.<br>
